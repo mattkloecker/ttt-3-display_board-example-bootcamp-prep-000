@@ -2,7 +2,7 @@
 def display_board
   cell = "   "
   row = "#{cell}|#{cell}|#{cell}"
-  puts "#{row}\n#{row}\n#{row}"
+  puts "#{row}\n-----------\n#{row}\n-----------\n#{row}"
   print "Done"
 end
 
