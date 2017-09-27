@@ -2,6 +2,7 @@
 def display_board
   cell = "   "
   puts row = "#{cell}|#{cell}|#{cell}"
+  prints "Done"
 end
 
 display_board
