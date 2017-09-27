@@ -6,4 +6,3 @@ def display_board
   print "Done"
 end
 
-display_board
