@@ -5,4 +5,3 @@ def display_board
   puts "#{row}\n-----------\n#{row}\n-----------\n#{row}"
   print "Done"
 end
-
